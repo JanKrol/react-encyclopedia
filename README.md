@@ -1,6 +1,7 @@
 # react-encyclopedia
  Pokémon Encyclopedia using the APIs provided by pokéapi.
-Markup: 
+
+
 * A 4x3 grid is loaded with 12 Pokémon
 * Every Pokémon in that grid shows its own ID, name and types
 * Clicking on the "Load more Pokémon" button a new 4x3 grid is loaded
