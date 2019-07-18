@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from 'react-dom';
+import './style.css';
 import Grid from './grid/Grid.js';
 import { debounce } from "throttle-debounce";
 import Modal from './modal/Modal.js';

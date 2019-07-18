@@ -1,6 +1,5 @@
 import React from 'react';
 import update from 'immutability-helper';
-import './Grid.css';
 import GridCell from './GridCell.js'
 
 class Grid extends React.Component {
